@@ -1,4 +1,4 @@
-# Misc - Randomito - 25 pts - 154 solves
+# Misc - Randomito - 25 pts - 292 solves
 
 First challenge of `Misc` category
 
