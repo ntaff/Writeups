@@ -60,6 +60,7 @@ if __name__ == "__main__":
  
  !["flag!"](https://github.com/ntaff/Writeups/blob/master/assets/images/FCSC%202020/randomito1.png)
  
+ (In french, `randomito` is a contractions of words "random" and "mytho" (who mean "liar"))
  
  
  
