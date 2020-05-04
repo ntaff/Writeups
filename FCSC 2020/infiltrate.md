@@ -1,6 +1,6 @@
 # Reverse - Infiltrate - 25 pts - 188 solves
 
-First challenge of `reverse` category ! Here just have an image at our disposal : 
+First challenge of `reverse` category ! Here we just have an image at our disposal : 
 
 !["Challenge image"](https://github.com/ntaff/Writeups/blob/master/assets/images/FCSC%202020/infiltrate.png)
 
